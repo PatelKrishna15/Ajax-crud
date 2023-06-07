@@ -29,7 +29,7 @@
           <form action="">
             @csrf
             <input type="hidden" name="id" id="editId">
-            <div class="form-group">
+            <div class="form-group">                                                                                                          
               <label for="name" class="form-label">Name:</label>
               <input type="text" name="name" class="form-control" id="editName">
             </div>
